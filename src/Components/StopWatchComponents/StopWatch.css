@@ -1,5 +1,5 @@
 *{
-    background-color: rgb(167, 198, 237);
+    background-color: burlywood;
     color: black;
     justify-content: center;
 }
@@ -11,33 +11,33 @@
 .box{
     margin: 80px;
     padding:50px;
-    background-color: rgb(66, 108, 159);
+    background-color:burlywood;
     border-radius: 30px;
-    box-shadow: 13px 5px 8px 5px rgb(48, 2, 165);
+    box-shadow:ghostwhite;
 }
 .title{
     margin:20px;
     text-align: center;
-    background-color: rgb(66, 108, 159);
+    background-color: black;
     font-size: 20px;
     font-weight: 400;
 }
 .time{
     text-align: center;
     font-size: 30px;
-    background-color: rgb(66, 108, 159);
+    background-color:aquamarine;
     font-weight: 700;
 }
 .btn{
-    background-color: rgb(188, 218, 237);
+    background-color:burlywood;
     margin: 10px;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px 5px rgb(48, 2, 165);
+    box-shadow:ghostwhite;
 }
 .btn:hover{
     background-color: rgb(65, 65, 126);
 }*{
-    background-color: rgb(167, 198, 237);
+    background-color: burlywood;
     color: black;
     justify-content: center;
 }
@@ -49,29 +49,29 @@
 .box{
     margin: 80px;
     padding:50px;
-    background-color: rgb(66, 108, 159);
+    background-color: aquamarine;
     border-radius: 30px;
-    box-shadow: 13px 5px 8px 5px rgb(48, 2, 165);
+    box-shadow:ghostwhite;
 }
 .title{
     margin:20px;
     text-align: center;
-    background-color: rgb(66, 108, 159);
+    background-color:cadetblue;
     font-size: 20px;
     font-weight: 400;
 }
 .time{
     text-align: center;
     font-size: 30px;
-    background-color: rgb(66, 108, 159);
+    background-color: cadetblue;
     font-weight: 700;
 }
 .btn{
-    background-color: rgb(188, 218, 237);
+    background-color: burlywood;
     margin: 10px;
     border-radius: 20px;
-    box-shadow: 5px 5px 5px 5px rgb(48, 2, 165);
+    box-shadow:ghostwhite;
 }
 .btn:hover{
-    background-color: rgb(65, 65, 126);
+    background-color:grey;
 }
